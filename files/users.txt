@@ -1,0 +1,14 @@
+[
+  {
+    "_id": 1774002651889,
+    "name": "abcdef",
+    "email": "dewd",
+    "password": "wsafewd"
+  },
+  {
+    "_id": 1774002660998,
+    "name": "Tamanjeet",
+    "email": "taman1@gmail.com1",
+    "password": "1234"
+  }
+]
